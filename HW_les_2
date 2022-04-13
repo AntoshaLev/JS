@@ -5,7 +5,6 @@
     <title>Title</title>
 </head>
 <body>
-
 //1. С помощью цикла while вывести все простые числа в промежутке от 0 до 100.
 //      Создаем массив от 1 до 100
         var arr = [];
@@ -82,13 +81,13 @@
 //xxxx
 //xxxxx
 
-        var arr = [];
-        var end = 0;
-        while (end < 20){
-            end++;
-            arr.push('x');
-            console.log(arr);
-        }
+var arr = [];
+var end = 0;
+while (end < 20){
+end++;
+arr.push('x');
+console.log(arr);
+}
 
 </script>
 </body>
