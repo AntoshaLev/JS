@@ -23,4 +23,3 @@ function countBasketPrice() {
 countBasketPrice();
 
 document.write("<br><b>*Задание 4: цикл for без тела.</b><br>");
-/*
