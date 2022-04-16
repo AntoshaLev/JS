@@ -1,7 +1,6 @@
 const rows = ["A", "B", "C", "D", "E", "F", "G", "H"];
 const line = [" 1", " 2", " 3", " 4", " 5", " 6", " 7", " 8"];
 
-
 function drowChess() {
     let box = document.querySelector(".box"); // поиск div class="box"
 

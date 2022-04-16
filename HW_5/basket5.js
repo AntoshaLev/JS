@@ -47,7 +47,6 @@ class basketObj {
         drowbasket.appendChild(total)
     }
 }
-
 let userBasket = new basketObj();
 userBasket.push(product, product1, product2, product3);
 
