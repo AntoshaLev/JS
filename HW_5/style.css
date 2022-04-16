@@ -4,13 +4,8 @@
 }
 body {
     font-family: sans-serif;
+}
 
-}
-.container {
-    margin: 0 150px;
-    display: flex;
-    flex-wrap: wrap;
-}
 .box {
     position: relative;
     display: flex;
