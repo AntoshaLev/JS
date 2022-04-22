@@ -52,7 +52,6 @@ class basketObj {
     }
 
 
-
 }
 
 let userBasket = new basketObj();
